@@ -1,14 +1,14 @@
 # Streaming-Wars-Disney-vs.-Netflix-A-Content-Analysis-Showdown-
 we dived deep into the world of content streaming and developed two comprehensive Power BI dashboards for Disney+ and Netflix. These visualizations help draw some interesting comparisons between the two platforms in terms of content trends, genres, and distribution.
 
-tools used:
+# tools used:
 Data Cleaning: We used Power Query to preprocess and clean the data, ensuring accuracy and consistency.
 
 Data Querying: SQL Server was leveraged to write and execute complex queries to extract meaningful insights from the raw data.
 
 Dashboard Building: Power BI was the primary tool used to design and develop interactive dashboards, providing clear visualizations for comparing the content libraries of Disney+ and Netflix.
 
-🚀 Key Insights :
+# 🚀 Key Insights :
 1. Content Distribution:
 *Disney+ has around 1,450 titles 📚, while Netflix boasts a whopping 8,807 titles!
 *Disney+ features 77.6% TV shows, highlighting its focus on series.
